@@ -315,7 +315,7 @@ namespace Lab2
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dataGridView1.Location = new System.Drawing.Point(358, 12);
             this.dataGridView1.Name = "dataGridView1";
-            this.dataGridView1.Size = new System.Drawing.Size(356, 150);
+            this.dataGridView1.Size = new System.Drawing.Size(422, 150);
             this.dataGridView1.TabIndex = 31;
             // 
             // dataGridView2
@@ -323,7 +323,7 @@ namespace Lab2
             this.dataGridView2.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dataGridView2.Location = new System.Drawing.Point(358, 184);
             this.dataGridView2.Name = "dataGridView2";
-            this.dataGridView2.Size = new System.Drawing.Size(356, 150);
+            this.dataGridView2.Size = new System.Drawing.Size(422, 150);
             this.dataGridView2.TabIndex = 32;
             // 
             // dataGridView3
